@@ -15,3 +15,6 @@
 
 
 github添加第7行
+
+
+github添加第8行，来测试使用命令fetch来单独获取分支或整个仓库test
