@@ -22,3 +22,9 @@ test
 =======
 测试“git branch -set-upstream-to localbranch master”命令
 >>>>>>> localbranch
+
+
+insert test
+
+
+local
